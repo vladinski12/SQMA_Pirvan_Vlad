@@ -5,7 +5,7 @@ import static org.junit.Assert.fail;
 import org.junit.Before;
 import org.junit.Test;
 
-public class MatematicaTest2 {
+public class Matematica2Test {
 
     Matematica matematica;
 
